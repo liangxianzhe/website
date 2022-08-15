@@ -59,6 +59,18 @@ Riverpod doesn't have a dependency on the Flutter SDK.
 [Getting started with Riverpod]: https://riverpod.dev/docs/getting_started
 [Riverpod]: https://riverpod.dev/
 
+## Creator
+
+Inspired by Riverpod and features a simple stream-like API.
+
+* [Creator][] homepage
+* [Create a state management library with 100 lines of code][]
+* [Inside popular state management libraries][]
+
+[Creator]: {{site.github}}/liangxianzhe/creator
+[Create a state management library with 100 lines of code]: {{site.medium}}/@xianzhe/e80bd865f4bd
+[Inside popular state management libraries]: {{site.medium}}/@xianzhe/e20c1119bf75
+
 ## setState
 
 The low-level approach to use for widget-specific, ephemeral state.
